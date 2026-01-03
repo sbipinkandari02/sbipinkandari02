@@ -34,8 +34,10 @@ Experienced in delivering **scalable systems, admin dashboards, and performance-
 - Redis, Cloudinary  
 - Stripe Payments  
 - AWS, Render  
-- Jira, SonarQube  
-
+- Jira, SonarQube
+- AI Tools: ChatGPT,Gemini,Claude,Github Copilot,Cursor,Lovable etc...
+- Testing Frameworks: JEST, RTL
+- CLoud: AWS
 ---
 
 ## 📌 Featured Projects
